@@ -3,3 +3,5 @@ function greet(name) {
 }
 
 console.log(greet("Jeet"));
+console.log(greet("Alice"));
+console.log(greet("Bob"));
